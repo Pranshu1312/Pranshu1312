@@ -3,7 +3,7 @@
 <h3 align="center">💻 Student at MPSTME | Software & Website Developer | Tech Enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF">
+  <img src="https://www.behance.net/gallery/183178475/Coding/modules/1034892977" width="500" alt="Coding GIF">
 </p>
 
 ---
@@ -76,7 +76,7 @@
 
 <p align="center">
   <a href="mailto:pranshumangale2006@gmail.com"><img src="https://img.icons8.com/ios-filled/50/ffffff/gmail-new.png" alt="Email" height="40"/></a>
-  <a href="https://www.linkedin.com/in/pranshu-mangale"><img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" alt="LinkedIn" height="40"/></a>
+  <a href="https://www.linkedin.com/in/pranshu-mangale-7962872b7/"><img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" alt="LinkedIn" height="40"/></a>
   <a href="https://pranshu1312.github.io"><img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" alt="Website" height="40"/></a>
 </p>
 
