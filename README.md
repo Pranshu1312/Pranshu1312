@@ -3,7 +3,7 @@
 <h3 align="center">💻 Student at MPSTME | Software & Website Developer | Tech Enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://www.behance.net/gallery/183178475/Coding/modules/1034892977" width="500" alt="Coding GIF">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/579fe1183178475.653aa8931b193.gif" width="500" alt="Coding GIF">
 </p>
 
 ---
