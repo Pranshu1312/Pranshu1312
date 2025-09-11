@@ -39,7 +39,7 @@
 - **21-Day Community Service Internship** at **Indian Development Foundation (IDF)**
   - Educated underserved children, led e-waste drives, participated in beach cleanups, and conducted fire safety awareness programs
 - Successfully built multiple websites and web apps for real-world clients
-- Active in **college committees** as **DC Executive** at MPSTME Editorial Board
+- Active in **college committees** as **DC Executive** at MPSTME Google Developers Club, Micosoft Student Club, ACM and Editorial Board
 
 ---
 
