@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Pranshu Mangale</h1>
-<h3 align="center">💻 Student at MPSTME | Software & Website Developer | Tech Enthusiast 🚀</h3>
+<h3 align="center">💻 Student at MPSTME | Google Student Ambassador | Software & Website Developer 🚀</h3>
 
 <p align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/579fe1183178475.653aa8931b193.gif" width="500" alt="Coding GIF">
@@ -11,6 +11,7 @@
 ## 🚀 About Me
 
 🎓 **Bachelor of Technology (Information Technology)** at **SVKM's NMIMS MPSTME**, Mumbai, India  
+🔴 **Google Student Ambassador**
 🌱 Passionate about **Web Development, Software Development, and Fintech Innovations**  
 💡 I love solving problems, building impactful projects, and exploring new technologies  
 🌍 Open to exciting collaborations and impactful open-source contributions  
